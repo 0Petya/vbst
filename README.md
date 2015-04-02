@@ -6,3 +6,5 @@ It saves the graph as a .png.
 
 Here is an example:
 <img src = "resources/out.png">
+
+This currently works in the linux environment, and requires Graphviz to be installed.
